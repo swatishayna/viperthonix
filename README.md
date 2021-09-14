@@ -5,8 +5,7 @@ It will read different datafile and perform basic operation with just one click
 ```pip install viper-thonix```
 
 ## Example
-from viper-thonix import load
-load("D:\data science\ML\ML\class\Admission_Prediction.csv")
+type viperthon in cmd
 
 
 
